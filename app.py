@@ -188,7 +188,7 @@ if generate_btn and u_field and u_goal:
                 st.link_button("Apply on Naukri", f"https://www.naukri.com/{safe_goal_hyphen}-jobs", use_container_width=True)
             
             st.divider()
-            st.success("📢 **Corporate Sponsorships Active:** Want to run your sponsorship Contact Mr Kapil Thakur.")
+            st.success("📢 **Corporate Sponsorships Active:** Want to run your advertisment Contact Mr Kapil Thakur.")
 
 else:
     st.image("https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200", use_container_width=True)
